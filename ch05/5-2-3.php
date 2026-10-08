@@ -1,3 +1,7 @@
+# SID: C113181126<BR>
+# Name: 王宥惠<BR>
+EX03
+<HR>
 <?php
 $result = 0;
 $n = 0;
@@ -10,3 +14,4 @@ while ($result <= 10) {
 }
 $n = $n - 1;
 echo "result: " . $result;
+?>
