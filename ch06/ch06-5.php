@@ -2,6 +2,7 @@
 echo "<HR>";
 echo "SID: C113181126<br/>";
 echo "Name: 王宥惠<br/>";
+echo "EX01<br/>";
 echo "<HR>";
 
 
